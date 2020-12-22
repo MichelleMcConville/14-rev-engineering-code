@@ -4,7 +4,23 @@
 
 ## Description
 
-Reverse engineering provided code and creating a document to explain the code.
+Reverse engineer the starter code provided and create a tutorial for the code.
+
+***`User Story`***
+
+```md
+AS A developer
+I WANT a walk-through of the codebase
+SO THAT I can use it as a starting point for a new project
+```
+
+***`Acceptance Criteria`***
+
+```md
+GIVEN a Node.js application using Sequelize and Passport
+WHEN I follow the walk-through
+THEN I understand the codebase
+```
 
 ## Table of Contents ✨
 
